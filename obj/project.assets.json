@@ -903,28 +903,30 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Schwake\\.nuget\\packages\\": {},
+    "C:\\Users\\mattwyndham\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Schwake\\Documents\\net\\learn\\learn\\learn.csproj",
+      "projectUniqueName": "C:\\Users\\mattwyndham\\Documents\\scratch\\csharp\\fire-nation-canvas-to-csv\\learn.csproj",
       "projectName": "learn",
-      "projectPath": "C:\\Users\\Schwake\\Documents\\net\\learn\\learn\\learn.csproj",
-      "packagesPath": "C:\\Users\\Schwake\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Schwake\\Documents\\net\\learn\\learn\\obj\\",
+      "projectPath": "C:\\Users\\mattwyndham\\Documents\\scratch\\csharp\\fire-nation-canvas-to-csv\\learn.csproj",
+      "packagesPath": "C:\\Users\\mattwyndham\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mattwyndham\\Documents\\scratch\\csharp\\fire-nation-canvas-to-csv\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Schwake\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\mattwyndham\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

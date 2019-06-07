@@ -9,3 +9,9 @@ C:\Users\Schwake\Documents\net\learn\learn\bin\Debug\netcoreapp2.2\learn.dll
 C:\Users\Schwake\Documents\net\learn\learn\bin\Debug\netcoreapp2.2\learn.pdb
 C:\Users\Schwake\Documents\net\learn\learn\obj\Debug\netcoreapp2.2\learn.dll
 C:\Users\Schwake\Documents\net\learn\learn\obj\Debug\netcoreapp2.2\learn.pdb
+C:\Users\mattwyndham\Documents\scratch\csharp\fire-nation-canvas-to-csv\obj\Debug\netcoreapp2.2\learn.csprojAssemblyReference.cache
+C:\Users\mattwyndham\Documents\scratch\csharp\fire-nation-canvas-to-csv\obj\Debug\netcoreapp2.2\learn.csproj.CoreCompileInputs.cache
+C:\Users\mattwyndham\Documents\scratch\csharp\fire-nation-canvas-to-csv\obj\Debug\netcoreapp2.2\learn.AssemblyInfoInputs.cache
+C:\Users\mattwyndham\Documents\scratch\csharp\fire-nation-canvas-to-csv\obj\Debug\netcoreapp2.2\learn.AssemblyInfo.cs
+C:\Users\mattwyndham\Documents\scratch\csharp\fire-nation-canvas-to-csv\obj\Debug\netcoreapp2.2\learn.dll
+C:\Users\mattwyndham\Documents\scratch\csharp\fire-nation-canvas-to-csv\obj\Debug\netcoreapp2.2\learn.pdb
