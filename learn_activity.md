@@ -7,7 +7,7 @@ To help you learn about these libraries and C# features, you task is to to the f
 - [ ] Using JSON.NET and CSV helper, create a CSV of the course.
 - [ ] Save the CSV to the hard drive.
 
-As you design and work on this assignment, try to apply the Object Oriented Design Principles that you just learned. The more scaleable your program, the happier Aaron, Levi,0 and Josh will be. :D 
+As you design and work on this assignment, try to apply the Object Oriented Design Principles that you just learned. The more scaleable your program, the happier Aaron, Levi, and Josh will be. :D 
 
 ## Featured Libraries
 These libraries are the core libraries for this project. Understand that these are the libraries that will be used in the future to make our Audit Program. 
